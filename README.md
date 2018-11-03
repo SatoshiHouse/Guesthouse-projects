@@ -6,38 +6,18 @@ We want to be the place people come to learn about Bitcoin, Crypto Currencies, O
 Areas we like to support development in
 
 Bitcoin
+Fungibility, Scaling, Privacy, Security, Protocol development, Application development, Wallet development, UX for merchants and users, Lightning Network, Better options for custodial services, Key storage, Mass adoption, Code review, Mining decentralization, Micro-payments.
 
-Fungibility, Scaling, Privacy, Security
-Protocol development
-Application development
-Wallet development
-UX for merchants and users
-Lightning Network
-Better options for custodial services
-Key storage
-Mass adoption
-Code review
-Mining decentralization
-Micro-payments
 Transactions via different media
+Radio, Satellite, Phone line, USB/Bluetooth.
 
-Radio
-Satellite
-Phone line
-USB/Bluetooth
 Potential use of second layers solutions
+Government spending/budget, Voting.
 
-Government spending/budget
-Voting
 Open Source / Decentralization
 
-ISP
-Freedom of speech
-Phone service providers
-VPN
-Hardware development
-Mesh networks
-Tor network
+ISP, Freedom of speech, Phone service providers, VPN, Hardware development, Mesh networks, Tor network.
+
 Cypherpunk movement
 
 Or any other technology that looks like it could seriously disrupt the current status quo for the better – we’d love to hear about your project, please drop us a line.
