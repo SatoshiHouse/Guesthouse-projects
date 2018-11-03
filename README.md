@@ -2,14 +2,12 @@
 Publish all Open Source project worked at Satoshi House.
 Our goals is to show and educate the importance of Open Source development and Decentralization, on both software and hardware side it will have an massive impact in the future. We aim to be the place where people come to build the future.
 We want to be the place people come to learn about Bitcoin, Crypto Currencies, Open Sourece and Decentralization. Our ideology is educate and encourage development and research.
+
 Areas we like to support development in
 
 Bitcoin
 
-Fungibility
-Scaling
-Privacy
-Security
+Fungibility, Scaling, Privacy, Security
 Protocol development
 Application development
 Wallet development
